@@ -1,0 +1,8 @@
+Debug
+.vscode
+*~
+*.cci
+*.cwp
+*.fct
+*.cbi
+*.cof
